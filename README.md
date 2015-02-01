@@ -1,8 +1,8 @@
 #clean_bib.py - Delete Unwanted Bibliography fields from .bib files.
 
-Do you use Mendeley, Papers, Zotero or other bibliographic softwares that export their bibliography to bibtex .bib files for use in Latex with with bibTeX or bibLaTeX?
+Do you use Mendeley, Papers, Zotero or other bibliographic softwares that export their bibliography to bibtex .bib files for use in LaTeX with with bibTeX or bibLaTeX? 
 
-Do you hate the way those bibliographic softwares generally export a .bib file that can’t exclude certain fields that make a total hash of your Bibliography Entries?
+Do you hate the way those bibliographic softwares generally export a .bib file that can’t exclude certain fields and so make a total ugly hash of your Bibliography Entries?
 
 If so, then this Python script is for you! It deletes the extraneous fields in the .bib file leaving you with just the essential ones, like Author, Year, Title, Journal, etc. 
 
