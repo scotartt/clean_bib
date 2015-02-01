@@ -4,7 +4,9 @@ Do you use Mendeley, Papers, Zotero or other bibliographic softwares that export
 
 Do you hate the way those bibliographic softwares generally export a .bib file that can’t exclude certain fields that make a total hash of your Bibliography Entries?
 
-This Python script is for you! It deletes the extraneous fields in the .bib file leaving you with just the essential ones, like Author, Year, Title, Journal, etc. 
+If so, then this Python script is for you! It deletes the extraneous fields in the .bib file leaving you with just the essential ones, like Author, Year, Title, Journal, etc. 
+
+Never have a horrid bibliography entry with the article Abstract (!) copied into it every again! No more hashing about with .csl files ever again (not that .bibtex and .biblatex support those horrid things anyway).
 
 ##Installing the script
 
