@@ -32,7 +32,7 @@ To run the script, on the command line, type:
 
 ## Customising what fields are removed
 
-It works by removing fields you don’t want, and leaving any others. You can customise what fields are removed by editing the line:
+It works by removing fields you *don’t* want, and leaving any others. You can customise what fields are removed by editing the line:
 
     unwanted = ["doi", "url", "abstract", "file", "isbn", "link", "keyword", "mendeley-tags", "annote", "pmid", "chapter", "institution", "issn", "month"]
 
