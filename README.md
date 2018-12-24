@@ -9,7 +9,7 @@ If so, then this Python script is for you! It deletes the extraneous fields in t
 
 Never have a horrid bibliography entry with the article Abstract (!) copied into it every again! No more hashing about with .csl files ever again (not that .bibtex and .biblatex support those horrid things anyway).
 
-##Installing the script
+## Installing the script
 
 You will need Python 3. I use Python 3.3 - I haven’t checked if this works with Python 2.x. In fact I know it won’t. Use Python 3 or convert it to Python 2 yourself.
 
